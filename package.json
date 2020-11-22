@@ -1,0 +1,29 @@
+{
+    "name": "silver-gray",
+    "repository": "https://github.com/black-black-cat/vscode-silver-gray-theme",
+    "displayName": "Silver Gray",
+    "description": "VSCode Silver Gray Theme",
+    "publisher": "blackblackcat",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Silver",
+        "Gray",
+        "Theme",
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Silver Gray",
+                "uiTheme": "vs",
+                "path": "./themes/Silver Gray-color-theme.json"
+            }
+        ]
+    }
+}
