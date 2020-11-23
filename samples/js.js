@@ -49,8 +49,11 @@ var proxy = function( fn, context ) {
   return proxy;
 };
 
+function Sound () {
+
+}
 Sound.play = function() {}
-Sound.prototype = { something; }
+Sound.prototype = { something }
 Sound.prototype.play = function() {}
 Sound.prototype.play = myfunc
 var parser = document.createElement('a');

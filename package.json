@@ -4,7 +4,7 @@
     "displayName": "Silver Gray",
     "description": "VSCode Silver Gray Theme",
     "publisher": "blackblackcat",
-    "version": "0.1.0",
+    "version": "0.1.8",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -12,11 +12,15 @@
         "Themes"
     ],
     "keywords": [
-        "light",
+        "Light",
         "Silver",
         "Gray",
         "Theme",
-        "Themes"
+        "Themes",
+        "Calm",
+        "Pale",
+        "focusing",
+        "Concentrate"
     ],
     "icon": "icon.png",
     "contributes": {
