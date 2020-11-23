@@ -12,11 +12,13 @@
         "Themes"
     ],
     "keywords": [
+        "light",
         "Silver",
         "Gray",
         "Theme",
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
