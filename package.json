@@ -1,35 +1,48 @@
 {
-    "name": "silver-gray",
-    "repository": "https://github.com/black-black-cat/vscode-silver-gray-theme",
-    "displayName": "Silver Gray",
-    "description": "VSCode Silver Gray Theme",
-    "publisher": "blackblackcat",
-    "version": "0.1.8",
-    "engines": {
-        "vscode": "^1.51.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords": [
-        "Light",
-        "Silver",
-        "Gray",
-        "Theme",
-        "Themes",
-        "Calm",
-        "Pale",
-        "focusing",
-        "Concentrate"
-    ],
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Silver Gray",
-                "uiTheme": "vs",
-                "path": "./themes/Silver Gray-color-theme.json"
-            }
-        ]
-    }
+  "name": "silver-gray",
+  "repository": "https://github.com/black-black-cat/vscode-silver-gray-theme",
+  "displayName": "Silver Gray",
+  "description": "VSCode Silver Gray Theme",
+  "publisher": "blackblackcat",
+  "version": "0.1.8",
+  "scripts": {
+    "build": "build-theme && vsce package"
+  },
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Light",
+    "Silver",
+    "Gray",
+    "Theme",
+    "Themes",
+    "Calm",
+    "Pale",
+    "focusing",
+    "Concentrate"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "id": "Silver Gray",
+        "label": "Silver Gray",
+        "uiTheme": "vs",
+        "path": "./output/silver-gray-color-theme.json"
+      },
+      {
+        "id": "Primer",
+        "label": "Primer",
+        "uiTheme": "vs",
+        "path": "./output/primer-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@two-beards/vscode-theme-builder": "^1.0.0"
+  }
 }

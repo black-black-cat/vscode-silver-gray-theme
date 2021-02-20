@@ -1,4 +1,4 @@
-*.vsix
+# *.vsix
 
 # Logs
 logs
