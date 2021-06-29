@@ -2,6 +2,10 @@
 
 VSCode Silver Gray Theme
 
+Two new themes!
+
+Silver Dark Theme and Silver Primer Theme
+
 ## Screenshots
 
 VSCode

@@ -4,9 +4,10 @@
   "displayName": "Silver Gray",
   "description": "VSCode Silver Gray Theme",
   "publisher": "blackblackcat",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "scripts": {
-    "build": "build-theme && vsce package"
+    "dev": "node ./src/addColors.js && build-theme",
+    "build": "node ./src/addColors.js && build-theme && vsce package"
   },
   "engines": {
     "vscode": "^1.51.0"
@@ -16,6 +17,7 @@
   ],
   "keywords": [
     "Light",
+    "Dark",
     "Silver",
     "Gray",
     "Theme",
@@ -35,10 +37,22 @@
         "path": "./output/silver-gray-color-theme.json"
       },
       {
-        "id": "Primer",
-        "label": "Primer",
+        "id": "Silver Dark",
+        "label": "Silver Dark",
+        "uiTheme": "vs-dark",
+        "path": "./output/silver-dark-color-theme.json"
+      },
+      {
+        "id": "Silver Yarra",
+        "label": "Silver Yarra",
+        "uiTheme": "vs-dark",
+        "path": "./output/silver-yarra-color-theme.json"
+      },
+      {
+        "id": "Silver Primer",
+        "label": "Silver Primer",
         "uiTheme": "vs",
-        "path": "./output/primer-color-theme.json"
+        "path": "./output/silver-primer-color-theme.json"
       }
     ]
   },

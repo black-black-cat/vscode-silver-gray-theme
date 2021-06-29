@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "declaration": true,
+      "module": "system",
+      "noImplicitAny": true,
+      "outFile": "index.js",
+      "moduleResolution": "node"
+    },
+    "files": [
+      "index.ts"
+    ]
+  }
