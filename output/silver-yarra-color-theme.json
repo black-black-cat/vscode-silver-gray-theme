@@ -40,7 +40,6 @@
         "editor.lineHighlightBackground": "#242837",
         "editor.lineHighlightBorder": "#33384d",
         "editor.rangeHighlightBackground": "#3d435db0",
-        "editor.selectionBackground": "#474e6c",
         "editor.selectionHighlightBackground": "#fbe1a320",
         "editor.snippetFinalTabstopHighlightBorder": "#696c77",
         "editor.snippetTabstopHighlightBackground": "#3e4251",
