@@ -3,6 +3,7 @@
     "name": "Silver Yarra",
     "type": "dark",
     "colors": {
+        "input.border": "#555",
         "activityBar.activeBackground": "#242837",
         "activityBar.background": "#292d3e",
         "activityBar.foreground": "#cc7d2a",
@@ -106,7 +107,6 @@
         "extensionButton.prominentBackground": "#3e4251",
         "extensionButton.prominentForeground": "#fdf1d4",
         "extensionButton.prominentHoverBackground": "#cc7d2a",
-        "focusBorder": "#696c77",
         "foreground": "#e3d8be",
         "gitDecoration.addedResourceForeground": "#99c2eb",
         "gitDecoration.conflictingResourceForeground": "#ee37aa",
@@ -163,7 +163,6 @@
         "notificationToast.border": "#696c77",
         "panel.background": "#292d3e",
         "panel.border": "#3e4251",
-        "panel.dropBackground": "#cac0a980",
         "panelInput.border": "#696c77",
         "panelTitle.activeBorder": "#ff9d35",
         "panelTitle.activeForeground": "#fdf1d4",
@@ -282,7 +281,7 @@
                 "markup.fenced_code punctuation.definition"
             ],
             "settings": {
-                "foreground": "#5b858b"
+                "foreground": "#6A9955"
             }
         },
         {
@@ -321,7 +320,7 @@
                 "markup.other.anchor string"
             ],
             "settings": {
-                "foreground": "#b2cacd"
+                "foreground": "#bbb"
             }
         },
         {
@@ -381,7 +380,7 @@
                 "keyword.control.def.ruby"
             ],
             "settings": {
-                "foreground": "#df769b"
+                "foreground": "#e06c75"
             }
         },
         {
@@ -445,7 +444,7 @@
                 "markup.code"
             ],
             "settings": {
-                "foreground": "#b2cacd"
+                "foreground": "#bbb"
             }
         },
         {
@@ -513,7 +512,7 @@
                 "markup.meta.attribute-list"
             ],
             "settings": {
-                "foreground": "#ef7c2a"
+                "foreground": "#c678dd"
             }
         },
         {
@@ -554,7 +553,7 @@
                 "meta.definition.attribute-entry punctuation.separator"
             ],
             "settings": {
-                "foreground": "#ef7c2a"
+                "foreground": "#61afef"
             }
         },
         {
@@ -616,7 +615,7 @@
                 "markup.block entity.name.tag"
             ],
             "settings": {
-                "foreground": "#ef7c2a"
+                "foreground": "#e06c75"
             }
         },
         {
@@ -633,7 +632,7 @@
                 "source.tf entity.name"
             ],
             "settings": {
-                "foreground": "#78bd65"
+                "foreground": "#98c379"
             }
         },
         {
@@ -653,7 +652,7 @@
                 "text.tex markup.raw"
             ],
             "settings": {
-                "foreground": "{{ colors.stringInTemplate }}"
+                "foreground": "#98c379"
             }
         },
         {
@@ -673,7 +672,7 @@
                 "source.toml constant"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#61afef"
             }
         },
         {
@@ -700,7 +699,7 @@
                 "source.tf support.class"
             ],
             "settings": {
-                "foreground": "#e5cd52"
+                "foreground": "#e5c07b"
             }
         },
         {
@@ -738,7 +737,7 @@
                 "entity.name.scope-resolution.function.call"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#61afef"
             }
         },
         {
@@ -793,7 +792,7 @@
                 "markup.substitution"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#61afef"
             }
         },
         {
@@ -803,7 +802,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#e3541c"
+                "foreground": "#ff2222"
             }
         },
         {
@@ -1070,7 +1069,7 @@
         {
             "scope": "variable.other.object.property",
             "settings": {
-                "foreground": "{{ colors.objectProperty }}",
+                "foreground": "#c678dd",
                 "fontStyle": ""
             }
         },

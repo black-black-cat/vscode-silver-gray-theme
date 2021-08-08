@@ -51,19 +51,20 @@ Silver Primer Syntax Color
 
 ## References
 
+[Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
+
 [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-[Noctis]: https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
 
-[Tokyo Night]: https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
+[Gray Gray Gray](https://marketplace.visualstudio.com/items?itemName=kendama1980.graygraygray)
 
-[Gray Gray Gray]: https://marketplace.visualstudio.com/items?itemName=kendama1980.graygraygray
+[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-[Github Theme]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+[Github Light](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
-[Github Light]: https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light
+[Yarra Valley](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.yarra-valley)
 
-[Yarra Valley]: https://marketplace.visualstudio.com/items?itemName=dustypomerleau.yarra-valley
+[New Moon](https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode)
 
-[New Moon]: https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode
+[An Old Hope](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
-[An Old Hope]: https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode
+[One Dark](https://github.com/joshdick/onedark.vim/blob/main/colors/onedark.vim)

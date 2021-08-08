@@ -24,8 +24,12 @@
     "Themes",
     "Calm",
     "Pale",
-    "focusing",
-    "Concentrate"
+    "Focusing",
+    "Concentrate",
+    "Andromeda",
+    "An Old Hope",
+    "Github Light",
+    "Noctis"
   ],
   "icon": "icon.png",
   "contributes": {

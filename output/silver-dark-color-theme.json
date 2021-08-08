@@ -93,7 +93,7 @@
                 "markup.fenced_code punctuation.definition"
             ],
             "settings": {
-                "foreground": "#5b858b"
+                "foreground": "#6A9955"
             }
         },
         {
@@ -132,7 +132,7 @@
                 "markup.other.anchor string"
             ],
             "settings": {
-                "foreground": "#b2cacd"
+                "foreground": "#bbb"
             }
         },
         {
@@ -192,7 +192,7 @@
                 "keyword.control.def.ruby"
             ],
             "settings": {
-                "foreground": "#df769b"
+                "foreground": "#e06c75"
             }
         },
         {
@@ -256,7 +256,7 @@
                 "markup.code"
             ],
             "settings": {
-                "foreground": "#b2cacd"
+                "foreground": "#bbb"
             }
         },
         {
@@ -614,7 +614,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#e3541c"
+                "foreground": "#ff2222"
             }
         },
         {
