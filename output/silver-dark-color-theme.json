@@ -93,7 +93,7 @@
                 "markup.fenced_code punctuation.definition"
             ],
             "settings": {
-                "foreground": "#6A9955"
+                "foreground": "#768390"
             }
         },
         {
@@ -365,7 +365,7 @@
                 "meta.definition.attribute-entry punctuation.separator"
             ],
             "settings": {
-                "foreground": "#ef7c2a"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -427,7 +427,7 @@
                 "markup.block entity.name.tag"
             ],
             "settings": {
-                "foreground": "#ef7c2a"
+                "foreground": "#e06c75"
             }
         },
         {
@@ -484,7 +484,7 @@
                 "source.toml constant"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -549,7 +549,7 @@
                 "entity.name.scope-resolution.function.call"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -604,7 +604,7 @@
                 "markup.substitution"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#6cb6ff"
             }
         },
         {

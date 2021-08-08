@@ -1,11 +1,11 @@
 let ref = {
-  blue: '#4fb4d8',
+  blue: '#6cb6ff',
   green: '#78bd65',
   orange: '#ef7c2a',
   red: '#eb3d54',
   yellow: '#e5cd52',
   text: '#bbb',
-  comment: '#6A9955'
+  comment: '#768390'
 };
 let darkThemeTokenColors = {
   comment: ref.comment,
@@ -13,8 +13,8 @@ let darkThemeTokenColors = {
   keyword: '#e06c75',
   variable: ref.text,
   annotation: ref.orange,
-  constant: ref.orange,
-  tag: ref.orange,
+  constant: ref.blue,
+  tag: '#e06c75',
   string: ref.green,
   stringInterpolated: ref.green,
   number: ref.blue,
@@ -59,14 +59,14 @@ module.exports = [{
     keyword: '#e06c75',
     variable: ref.text,
     annotation: '#c678dd',
-    constant: '#61afef',
+    constant: ref.blue,
     tag: '#e06c75',
     string: '#98c379',
     stringInTemplate: '#98c379',
-    number: '#61afef',
+    number: ref.blue,
     function: '#e5c07b',
-    support: '#61afef',
-    misc: '#61afef',
+    support: ref.blue,
+    misc: ref.blue,
     invalid: '#ff2222',
     objectProperty: '#c678dd'
   }
