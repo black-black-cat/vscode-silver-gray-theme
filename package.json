@@ -4,7 +4,7 @@
   "displayName": "Silver Gray",
   "description": "VSCode Silver Gray Theme",
   "publisher": "blackblackcat",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "scripts": {
     "dev": "node ./src/addColors.js && build-theme",
     "build": "node ./src/addColors.js && build-theme && vsce package"
@@ -26,10 +26,11 @@
     "Pale",
     "Focusing",
     "Concentrate",
-    "Andromeda",
     "An Old Hope",
-    "Github Light",
-    "Noctis"
+    "Github",
+    "Primer",
+    "Noctis",
+    "One Dark"
   ],
   "icon": "icon.png",
   "contributes": {

@@ -12,59 +12,65 @@ Silver Primer Theme
 
 ## Screenshots
 
-Silver Gray Theme
+<!-- Silver Gray Theme
 
 ![vscode](./screenshots/vscode-gray.png)
-> References: [Noctis], [Gray Gray Gray], [Tokyo Night]
 
 Silver Dark Theme
 
 ![vscode](./screenshots/vscode-dark.png)
-> References: [Noctis], [An Old Hope], [New Moon]
 
 Silver Yarra Theme
 
 ![vscode](./screenshots/vscode-yarra.png)
-> References: [Noctis], [An Old Hope], [Yarra Valley]
 
 Silver Primer Theme
 
-![vscode](./screenshots/vscode-primer.png)
-> References: [Noctis], [Github Theme], [Github Light]
+![vscode](./screenshots/vscode-primer.png) -->
 
 Silver Gray Syntax Color
 
-![vscode](./screenshots/silver-gray.png)
+![vscode](./screenshots/syntax-gray.png)
 
 Silver Dark Syntax Color
 
-![vscode](./screenshots/silver-dark.png)
+![vscode](./screenshots/syntax-dark.png)
 
 Silver Yarra Syntax Color
 
-![vscode](./screenshots/silver-yarra.png)
+![vscode](./screenshots/syntax-yarra.png)
 
 Silver Primer Syntax Color
 
-![vscode](./screenshots/silver-primer.png)
+![vscode](./screenshots/syntax-primer.png)
 
 
 ## References
 
-[Noctis](https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
+[Primer]
 
-[Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
+[One Dark]
 
-[Gray Gray Gray](https://marketplace.visualstudio.com/items?itemName=kendama1980.graygraygray)
+[Noctis]
 
-[Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+[New Moon]
 
-[Github Light](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
+[Yarra Valley]
 
-[Yarra Valley](https://marketplace.visualstudio.com/items?itemName=dustypomerleau.yarra-valley)
+[Noctis]:https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis
 
-[New Moon](https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode)
+[Tokyo Night]:https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night
 
-[An Old Hope](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
+[Gray Gray Gray]:https://marketplace.visualstudio.com/items?itemName=kendama1980.graygraygray
 
-[One Dark](https://github.com/joshdick/onedark.vim/blob/main/colors/onedark.vim)
+[Primer]:https://primer.style/primitives/
+
+[Github Light]:https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light
+
+[Yarra Valley]:https://marketplace.visualstudio.com/items?itemName=dustypomerleau.yarra-valley
+
+[New Moon]:https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode
+
+[An Old Hope]:https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode
+
+[One Dark]:https://github.com/joshdick/onedark.vim/blob/main/colors/onedark.vim

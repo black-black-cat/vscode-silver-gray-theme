@@ -53,25 +53,6 @@
         "diffEditor.insertedTextBackground": "#92D19244",
         "diffEditor.removedTextBackground": "#f2777a44",
         "diffEditor.border": "#444444",
-        "terminal.background": "#242424",
-        "terminal.foreground": "#b3b9c5",
-        "terminal.ansiBlack": "#666666",
-        "terminal.ansiBlue": "#6AB0F3",
-        "terminal.ansiCyan": "#62CFCF",
-        "terminal.ansiGreen": "#92D192",
-        "terminal.ansiMagenta": "#E1A6F2",
-        "terminal.ansiRed": "#f2777a",
-        "terminal.ansiWhite": "#ffffff",
-        "terminal.ansiYellow": "#ffd479",
-        "terminal.ansiBrightBlack": "#777777",
-        "terminal.ansiBrightBlue": "#6AB0F3",
-        "terminal.ansiBrightCyan": "#62CFCF",
-        "terminal.ansiBrightGreen": "#92D192",
-        "terminal.ansiBrightMagenta": "#E1A6F2",
-        "terminal.ansiBrightRed": "#f2777a",
-        "terminal.ansiBrightWhite": "#ffffff",
-        "terminal.ansiBrightYellow": "#ffd479",
-        "terminal.selectionBackground": "#bbbbbb22",
         "peekViewResult.background": "#242424",
         "peekViewEditor.background": "#242424",
         "peekView.border": "#333333",
@@ -93,7 +74,7 @@
                 "markup.fenced_code punctuation.definition"
             ],
             "settings": {
-                "foreground": "#6A9955"
+                "foreground": "#768390"
             }
         },
         {
@@ -365,7 +346,7 @@
                 "meta.definition.attribute-entry punctuation.separator"
             ],
             "settings": {
-                "foreground": "#ef7c2a"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -427,7 +408,7 @@
                 "markup.block entity.name.tag"
             ],
             "settings": {
-                "foreground": "#ef7c2a"
+                "foreground": "#e06c75"
             }
         },
         {
@@ -484,7 +465,7 @@
                 "source.toml constant"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -549,7 +530,7 @@
                 "entity.name.scope-resolution.function.call"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -604,7 +585,7 @@
                 "markup.substitution"
             ],
             "settings": {
-                "foreground": "#4fb4d8"
+                "foreground": "#6cb6ff"
             }
         },
         {

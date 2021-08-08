@@ -231,26 +231,6 @@
         "tab.unfocusedActiveModifiedBorder": "#e3d8bea0",
         "tab.unfocusedInactiveForeground": "#696c77",
         "tab.unfocusedInactiveModifiedBorder": "#cac0a9a0",
-        "terminal.ansiBlack": "#242837",
-        "terminal.ansiBlue": "#99c2eb",
-        "terminal.ansiBrightBlack": "#535664",
-        "terminal.ansiBrightBlue": "#99c2eb",
-        "terminal.ansiBrightCyan": "#4ce7ff",
-        "terminal.ansiBrightGreen": "#8af899",
-        "terminal.ansiBrightMagenta": "#ee37aa",
-        "terminal.ansiBrightRed": "#f14360",
-        "terminal.ansiBrightWhite": "#fdf5e0",
-        "terminal.ansiBrightYellow": "#ff9d35",
-        "terminal.ansiCyan": "#4ce7ff",
-        "terminal.ansiGreen": "#aecc00",
-        "terminal.ansiMagenta": "#c651e5",
-        "terminal.ansiRed": "#f14360",
-        "terminal.ansiWhite": "#fdf1d4",
-        "terminal.ansiYellow": "#ff9d35",
-        "terminal.background": "#292d3e",
-        "terminal.border": "#3e4251",
-        "terminal.foreground": "#cac0a9",
-        "terminal.selectionBackground": "#83b4d650",
         "textBlockQuote.background": "#292d3e",
         "textBlockQuote.border": "#3e4251",
         "textCodeBlock.background": "#242837",
@@ -281,7 +261,7 @@
                 "markup.fenced_code punctuation.definition"
             ],
             "settings": {
-                "foreground": "#6A9955"
+                "foreground": "#768390"
             }
         },
         {
@@ -553,7 +533,7 @@
                 "meta.definition.attribute-entry punctuation.separator"
             ],
             "settings": {
-                "foreground": "#61afef"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -672,7 +652,7 @@
                 "source.toml constant"
             ],
             "settings": {
-                "foreground": "#61afef"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -737,7 +717,7 @@
                 "entity.name.scope-resolution.function.call"
             ],
             "settings": {
-                "foreground": "#61afef"
+                "foreground": "#6cb6ff"
             }
         },
         {
@@ -792,7 +772,7 @@
                 "markup.substitution"
             ],
             "settings": {
-                "foreground": "#61afef"
+                "foreground": "#6cb6ff"
             }
         },
         {
