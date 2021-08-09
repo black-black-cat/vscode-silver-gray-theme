@@ -492,7 +492,7 @@
                 "markup.meta.attribute-list"
             ],
             "settings": {
-                "foreground": "#c678dd"
+                "foreground": "#ef7c2a"
             }
         },
         {
@@ -612,7 +612,7 @@
                 "source.tf entity.name"
             ],
             "settings": {
-                "foreground": "#98c379"
+                "foreground": "#78bd65"
             }
         },
         {
@@ -632,7 +632,7 @@
                 "text.tex markup.raw"
             ],
             "settings": {
-                "foreground": "#98c379"
+                "foreground": "{{ colors.stringInTemplate }}"
             }
         },
         {
@@ -652,7 +652,7 @@
                 "source.toml constant"
             ],
             "settings": {
-                "foreground": "#6cb6ff"
+                "foreground": "#c678dd"
             }
         },
         {
@@ -679,7 +679,7 @@
                 "source.tf support.class"
             ],
             "settings": {
-                "foreground": "#e5c07b"
+                "foreground": "#e5cd52"
             }
         },
         {
@@ -717,7 +717,7 @@
                 "entity.name.scope-resolution.function.call"
             ],
             "settings": {
-                "foreground": "#6cb6ff"
+                "foreground": "#c678dd"
             }
         },
         {
@@ -782,7 +782,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#ff2222"
+                "foreground": "#f22"
             }
         },
         {

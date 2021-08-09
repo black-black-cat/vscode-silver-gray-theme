@@ -1,27 +1,31 @@
 let ref = {
-  blue: '#6cb6ff',
-  green: '#78bd65',
+  red: '#e06c75',
   orange: '#ef7c2a',
-  red: '#eb3d54',
   yellow: '#e5cd52',
+  green: '#78bd65',
+  cyan: '#76e3ea',
+  blue: '#6cb6ff',
+  purple: '#c678dd',
   text: '#bbb',
-  comment: '#768390'
+  comment: '#768390',
+  invalid: '#f22',
 };
 let darkThemeTokenColors = {
   comment: ref.comment,
   text: ref.text,
-  keyword: '#e06c75',
+  keyword: ref.red,
   variable: ref.text,
   annotation: ref.orange,
   constant: ref.blue,
-  tag: '#e06c75',
+  tag: ref.red,
   string: ref.green,
-  stringInterpolated: ref.green,
-  number: ref.blue,
+  stringInterpolated: ref.cyan,
+  number: ref.purple,
   function: ref.yellow,
-  support: ref.blue,
+  support: ref.purple,
   misc: ref.blue,
-  invalid: '#ff2222'
+  invalid: ref.invalid,
+  objectProperty: ref.purple
 };
 module.exports = [{
   name: 'Silver Gray',
@@ -53,23 +57,7 @@ module.exports = [{
   name: 'Silver Yarra',
   inputFile: 'templates/yarra.json',
   outputDir: 'output',
-  colors: {
-    comment: ref.comment,
-    text: ref.text,
-    keyword: '#e06c75',
-    variable: ref.text,
-    annotation: '#c678dd',
-    constant: ref.blue,
-    tag: '#e06c75',
-    string: '#98c379',
-    stringInTemplate: '#98c379',
-    number: ref.blue,
-    function: '#e5c07b',
-    support: ref.blue,
-    misc: ref.blue,
-    invalid: '#ff2222',
-    objectProperty: '#c678dd'
-  }
+  colors: darkThemeTokenColors
 }, {
   name: 'Silver Primer',
   inputFile: 'templates/primer.json',

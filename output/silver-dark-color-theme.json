@@ -465,7 +465,7 @@
                 "source.toml constant"
             ],
             "settings": {
-                "foreground": "#6cb6ff"
+                "foreground": "#c678dd"
             }
         },
         {
@@ -530,7 +530,7 @@
                 "entity.name.scope-resolution.function.call"
             ],
             "settings": {
-                "foreground": "#6cb6ff"
+                "foreground": "#c678dd"
             }
         },
         {
@@ -595,7 +595,7 @@
                 "invalid.illegal"
             ],
             "settings": {
-                "foreground": "#ff2222"
+                "foreground": "#f22"
             }
         },
         {
@@ -862,7 +862,7 @@
         {
             "scope": "variable.other.object.property",
             "settings": {
-                "foreground": "{{ colors.objectProperty }}",
+                "foreground": "#c678dd",
                 "fontStyle": ""
             }
         },
