@@ -2,13 +2,14 @@
 
 VSCode Silver Gray Theme
 
-More new themes!
+**More new themes!**
+
+Silver Primer Theme, Redefined workbench colors
 
 Silver Dark Theme
 
 Silver Yarra Theme
 
-Silver Primer Theme
 
 ## Screenshots
 
@@ -32,6 +33,10 @@ Silver Gray Syntax Color
 
 ![vscode](./screenshots/syntax-gray.png)
 
+Silver Primer Syntax Color
+
+![vscode](./screenshots/syntax-primer.png)
+
 Silver Dark Syntax Color
 
 ![vscode](./screenshots/syntax-dark.png)
@@ -39,10 +44,6 @@ Silver Dark Syntax Color
 Silver Yarra Syntax Color
 
 ![vscode](./screenshots/syntax-yarra.png)
-
-Silver Primer Syntax Color
-
-![vscode](./screenshots/syntax-primer.png)
 
 
 ## References
