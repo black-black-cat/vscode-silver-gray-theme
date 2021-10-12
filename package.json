@@ -6,7 +6,7 @@
   "publisher": "blackblackcat",
   "version": "0.2.2",
   "scripts": {
-    "dev": "node ./src/addColors.js && build-theme",
+    "start": "node ./src/addColors.js",
     "build": "node ./src/addColors.js && build-theme && vsce package"
   },
   "engines": {
@@ -62,6 +62,8 @@
     ]
   },
   "devDependencies": {
-    "@two-beards/vscode-theme-builder": "^1.0.0"
+    "@two-beards/vscode-theme-builder": "^1.0.0",
+    "deltree": "^1.2.8",
+    "write": "^2.0.0"
   }
 }
