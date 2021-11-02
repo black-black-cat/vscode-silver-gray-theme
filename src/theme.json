@@ -796,6 +796,8 @@
     {
       "name": "NORMAL",
       "scope": [
+        "variable.other.object.property",
+        "variable.other.property",
         "keyword.begin.tag.ejs",
         "source.python meta.function.decorator.python support.type.python",
         "source.cs keyword.other",

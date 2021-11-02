@@ -1,5 +1,5 @@
 const theme = require('./theme.json');
-const workbenchDark = require('./workbenchDark.json');
+const workbenchDark = require('../rules/workbench/dark.json');
 const workbenchYarra = require('./workbenchYarra.json');
 const workbenchPrimer = require('./workbenchPrimer');
 
